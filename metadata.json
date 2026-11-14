@@ -1,0 +1,6 @@
+{
+  "name": "TestBench",
+  "description": "Interactive Material 3 UI playground, gesture lab, and real-time device telemetry sandbox for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

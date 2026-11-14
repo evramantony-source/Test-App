@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TestBench</string>
+    <string name="nav_playground">Playground</string>
+    <string name="nav_gesture_lab">Gesture Lab</string>
+    <string name="nav_device_info">Device</string>
+    <string name="hero_badge">SANDBOX READY</string>
+    <string name="hero_title">UI &amp; Gesture TestBench</string>
+    <string name="hero_subtitle">Verify Compose state, spring physics, Material 3 theming, and live hardware telemetry.</string>
+    <string name="counter_section_title">State &amp; Haptics Counter</string>
+    <string name="counter_increment">Tap +1</string>
+    <string name="counter_decrement">-1</string>
+    <string name="counter_reset">Reset</string>
+    <string name="controls_section_title">Controls &amp; Theme Lab</string>
+    <string name="theme_mode_label">Theme Override</string>
+    <string name="dynamic_color_label">Dynamic Color (Android 12+)</string>
+    <string name="haptics_label">Haptic Feedback</string>
+    <string name="gauge_slider_label">Calibration Signal</string>
+    <string name="trigger_snackbar">Snackbar</string>
+    <string name="trigger_sheet">Bottom Sheet</string>
+    <string name="trigger_dialog">Dialog</string>
+    <string name="event_log_title">Live Event Stream</string>
+    <string name="clear_log">Clear</string>
+    <string name="event_log_empty">Interact with controls above to record events.</string>
+    <string name="gesture_pad_title">Spring Physics Pad</string>
+    <string name="gesture_pad_subtitle">Drag or tap inside the arena to test pointer input and spring recovery.</string>
+    <string name="center_orb">Center Orb</string>
+    <string name="checklist_title">Verification Checklist</string>
+    <string name="reset_checklist">Reset</string>
+    <string name="device_section_hardware">Hardware &amp; OS</string>
+    <string name="device_section_display">Display &amp; Metrics</string>
+    <string name="device_section_memory">Memory &amp; Build</string>
+    <string name="copy_report">Copy Telemetry Report</string>
+    <string name="report_copied">Telemetry report copied to clipboard</string>
+</resources>
